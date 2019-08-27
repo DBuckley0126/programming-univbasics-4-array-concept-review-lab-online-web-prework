@@ -4,7 +4,7 @@ end
 
 def find_max_value(array)
   sorted_array = find_max_value.sort!
-  sorted_array [0]
+  sorted_array[0]
 end
 
 def find_min_value(array)
